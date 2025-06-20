@@ -1,0 +1,13 @@
+{
+    "wallet": "0x99cee6d471907dAaB1805448493104223c848D22",
+    "zk_kyc_passed": true,
+    "tx_count": 0,
+    "unique_contracts_interacted": 0,
+    "score": 60.0,
+    "risk_level": "medium",
+    "did_info": {
+        "did": "did:key:z6Mkr7AQExaFpEomuhBbi1pjpEvy2YbWoFSDovro2jCNfkTh",
+        "verification_method": "did:key:z6Mkr7AQExaFpEomuhBbi1pjpEvy2YbWoFSDovro2jCNfkTh#z6Mkr7AQExaFpEomuhBbi1pjpEvy2YbWoFSDovro2jCNfkTh",
+        "vc_issued": true
+    }
+}
